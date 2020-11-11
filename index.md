@@ -1,5 +1,5 @@
 ---
 layout: default
-title: PEPPOL
-description: A pan-European framework for public procurement
+title: eForms
+description: An EU legislative open standard for publishing public procurement data
 ---

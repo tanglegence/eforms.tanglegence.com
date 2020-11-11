@@ -1,9 +1,9 @@
 # Site settings
-title: PEPPOL
-email: peppol@tanglegence.com
-description: A pan-European framework for public procurement
+title: eForms
+email: eforms@tanglegence.com
+description: An EU legislative open standard for publishing public procurement data
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://peppol.tanglegence.com" # the base hostname & protocol for your site
+url: "https://eforms.tanglegence.com" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
